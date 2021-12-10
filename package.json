@@ -1,0 +1,28 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "\"# rtc\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e js, json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withbbang/rtc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/withbbang/rtc/issues"
+  },
+  "homepage": "https://github.com/withbbang/rtc#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "peer": "^0.6.1",
+    "socket.io": "^4.4.0",
+    "uuid": "^8.3.2"
+  }
+}
