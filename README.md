@@ -46,7 +46,7 @@ RTC
 
 > - https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js<br/>
 >   WebRTC를 좀 더 쉽게 사용할 수 있게 한 라이브러리
-
+>
 > ```html
 > <script src="https://kit.fontawesome.com/c939d0e917.js"></script>
 > ```
@@ -55,7 +55,7 @@ RTC
 
 > - https://kit.fontawesome.com/c939d0e917.js<br/>
 >   폰트 및 아이콘을 사용하기 위한 라이브러리
-
+>
 > ```html
 > <script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js"></script>
 > ```
