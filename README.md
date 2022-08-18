@@ -21,6 +21,8 @@ RTC
 └─ package.json
 ```
 
+---
+
 ### 파일 설명
 
 - room.ejs: 런타임에 보여지는 화면
@@ -35,28 +37,28 @@ RTC
 
 > - /socket.io/socket.io.js<br/>
 >   웹소켓을 불러올 수 있는 라이브러리
-
-```html
-<script src="/socket.io/socket.io.js"></script>
-```
+>
+> ```html
+> <script src="/socket.io/socket.io.js"></script>
+> ```
 
 #### 2. peer.js
 
 > - https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js<br/>
 >   WebRTC를 좀 더 쉽게 사용할 수 있게 한 라이브러리
 
-```html
-<script src="https://kit.fontawesome.com/c939d0e917.js"></script>
-```
+> ```html
+> <script src="https://kit.fontawesome.com/c939d0e917.js"></script>
+> ```
 
 #### 3. fontawesome
 
 > - https://kit.fontawesome.com/c939d0e917.js<br/>
 >   폰트 및 아이콘을 사용하기 위한 라이브러리
 
-```html
-<script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js"></script>
-```
+> ```html
+> <script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js"></script>
+> ```
 
 ---
 
